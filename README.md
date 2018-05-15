@@ -1,5 +1,4 @@
 # hello-world
 trying out github
 
-
-like quants, food and volleyball
+favs selection: quants, food and volleyball
